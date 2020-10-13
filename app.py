@@ -31,7 +31,7 @@ def log_conf():
 # 请求通用接口地址
 base_url = "http://e.cn/api/v1"
 # 微信code
-code = "091B24000XccsK1wWA200RGrTO2B240T"
+code = "031dSpml2OvoM54vO0ll2RkhyI3dSpmb"
 # 请求头
 headers = {
     "Content-Type": "application/json",
